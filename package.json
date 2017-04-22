@@ -1,0 +1,9 @@
+{
+  "name": "playground-4-React",
+  "version": "1.0.0",
+  "description": "Playground to learn react",
+  "main": "index.js",
+  "repository": "https://github.com/csmith111/playground-4-React.git",
+  "author": "V Jay <codesmith111@gmail.com>",
+  "license": "MIT"
+}
